@@ -102,10 +102,6 @@ Clic en “Clone”.
 
 Se habrá clonado un repositorio con ayuda de GitHub Desktop.
 
-# Evidencias
-
-![https://raw.githubusercontent.com/RaulToribio/12-Instalar-GitHub-Desktop/main/Im%C3%A1genes/Instalar%20GitHub%20Desktop%20(18).png](https://raw.githubusercontent.com/RaulToribio/12-Instalar-GitHub-Desktop/main/Im%C3%A1genes/Instalar%20GitHub%20Desktop%20(18).png)
-
 # Créditos
 
 > [José Raúl Toribio Gabriel](https://github.com/RaulToribio)
