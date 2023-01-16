@@ -1,5 +1,3 @@
-# 12-Instalar-GitHub-Desktop
-
 # Introducción
 
 GitHub Desktop es una aplicación de escritorio gratuita desarrollada por GitHub para facilitar el uso de Git en un entorno gráfico de usuario. Es compatible con Windows y MacOS. Con GitHub Desktop, los usuarios pueden realizar tareas comunes de Git, como clonar repositorios, crear ramas, realizar commits y fusiones, y sincronizar cambios con repositorios remotos, todo esto sin tener que utilizar la línea de comandos.
